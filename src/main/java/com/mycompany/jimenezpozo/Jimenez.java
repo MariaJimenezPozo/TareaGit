@@ -22,4 +22,10 @@ public class Jimenez {
         System.out.println("Haciendo cosas importantes");
         return num1 + num2;
     }
+    
+    
+    public static int multiplicaNum(int num1, int num2){
+        return num1 + num2;
+    }
+    
 }
