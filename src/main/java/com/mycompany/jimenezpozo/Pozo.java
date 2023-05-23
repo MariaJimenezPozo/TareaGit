@@ -14,4 +14,12 @@ public class Pozo {
         System.out.println("Este es el método de la clase Pozo");
     }
     
+    public static String prediccion(){
+        return "Este examen no se como me va a salir";
+    }
+    
+    public static int restaNum(int num1, int num2){
+        System.out.println("Haciendo cosas super importantes");
+        return num1 - num2;
+    }
 }
