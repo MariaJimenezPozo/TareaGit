@@ -10,4 +10,8 @@ package com.mycompany.jimenezpozo;
  */
 public class Jimenez {
     
+    public static void imprimeJimenez(){
+        System.out.println("Este es el método de la clase Jimenez");
+    }
+    
 }
