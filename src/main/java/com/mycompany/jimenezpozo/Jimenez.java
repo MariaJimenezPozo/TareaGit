@@ -14,4 +14,12 @@ public class Jimenez {
         System.out.println("Este es el método de la clase Jimenez");
     }
     
+    public static int sumaNum(int num1, int num2){
+        return num1 + num2;
+    }
+    
+    public static int multiplicaNum(int num1, int num2){
+        return num1 + num2;
+    }
+    
 }

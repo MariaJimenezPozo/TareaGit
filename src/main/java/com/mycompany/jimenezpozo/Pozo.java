@@ -13,5 +13,12 @@ public class Pozo {
     public static void imprimePozo(){
         System.out.println("Este es el método de la clase Pozo");
     }
+    public static int restaNum(int num1, int num2){
+        return num1 - num2;
+    }
+    
+    public static double divideNum(int num1, int num2){
+        return num1 + num2;
+    }
     
 }
